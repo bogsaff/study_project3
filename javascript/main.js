@@ -1,4 +1,5 @@
-document.getElementById("htr").onclick = function(){
-    document.getElementById("htr").innerHTML = "hello";
-    document.getElementById("htr").style.color = "red"
+document.getElementById("btn").onclick = function(){
+    var s = document.getElementById("text").value 
+    console.log(s);
+    alert(s)
 }
