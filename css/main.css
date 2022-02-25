@@ -1,10 +1,2 @@
-/* @import url("nullstyle.css"); */
+@import url("nullstyle.css");
 
-textarea{
-    border: 2px black solid;
-}
-
-h1{
-    text-align: center;
-}
- 
